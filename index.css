@@ -1,5 +1,5 @@
 body {
-  background: black;
+  background: #001f1a;
   font-family: Orbitron;
   color: #00cfac
 }
@@ -57,7 +57,7 @@ body {
   /* altered font size */
 	font-size: 10px;
 	text-transform: uppercase;
-	background: #000000;
+	background: #00382f;
 	border-radius: inherit;
   /* altered box-shadow to fit a black background */
 	box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.12), inset 0 0 2px rgba(0, 0, 0, 0.15);
@@ -89,7 +89,7 @@ body {
 }
 .switch-input:checked ~ .switch-label {
   /* altered background color */
-	background: #003b32;
+	background: #21404e;
 	box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.15), inset 0 0 3px rgba(0, 0, 0, 0.2);
 }
 .switch-input:checked ~ .switch-label:before {
